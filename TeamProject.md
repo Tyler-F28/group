@@ -641,14 +641,14 @@ if (allLikeLebron) {
 
 Before you finish, check:
 
-- [ ] All team member names display correctly
-- [ ] All questions are answered for each person
-- [ ] Total members count is correct
-- [ ] Total age and average age are correct
-- [ ] CSS looks good and colors work
-- [ ] No spelling errors
-- [ ] Page looks good on different screen sizes
-- [ ] All team members have their names in the top comment
+- [x] All team member names display correctly
+- [x] All questions are answered for each person
+- [x] Total members count is correct
+- [x] Total age and average age are correct
+- [x] CSS looks good and colors work
+- [x] No spelling errors
+- [x] Page looks good on different screen sizes
+- [x] All team members have their names in the top comment
 
 ---
 

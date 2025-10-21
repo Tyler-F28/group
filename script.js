@@ -8,7 +8,7 @@
 // ============================================
 
 let member1Name = "Tyler";
-let member1Age = 16;
+let member1Age = 17;
 let member1Game = "Minecraft";
 let member1Music = "Rustage";
 let member1BestFood = "mac and cheese";
@@ -75,6 +75,15 @@ document.getElementById('member1Future').textContent = member1Future;
 // ============================================
 
 // again copy from member 1, but remember to change the element IDs: 'member2-name' etc.
+document.getElementById('member-2Name').textContent = member2Name;
+document.getElementById('member-2Age').textContent = member2Age;
+document.getElementById('member-2Game').textContent = member2Game;
+document.getElementById('member-2Music').textContent = member1Music;
+document.getElementById('member-2BestFood').textContent = member2BestFood;
+document.getElementById('member-2Restaurant').textContent = member2Restaurant;
+document.getElementById('member-2PitBull').textContent = member2PitBull;
+document.getElementById('member-2Basketball').textContent = member2Basketball;
+document.getElementById('member-2Future').textContent = member2Future;
 
 
 
